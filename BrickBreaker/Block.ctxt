@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=width\ hitsNeeded
+comment1.target=Block(int,\ int)
+comment2.params=
+comment2.target=void\ hit()
+comment3.params=
+comment3.target=void\ updateColor()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

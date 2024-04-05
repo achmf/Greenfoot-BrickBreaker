@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BallLivesCounter
+comment1.params=initialLives
+comment1.target=BallLivesCounter(int)
+comment2.params=
+comment2.target=void\ loseLife()
+comment3.params=
+comment3.target=void\ gainLife()
+comment4.params=
+comment4.target=void\ updateImage()
+comment5.params=
+comment5.target=int\ getLives()
+numComments=6

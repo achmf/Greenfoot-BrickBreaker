@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=diameter
+comment1.target=Ball(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=livesCounter
+comment5.target=void\ setLivesCounter(BallLivesCounter)
+comment6.params=xSpeed
+comment6.target=void\ setXSpeed(int)
+comment7.params=ySpeed
+comment7.target=void\ setYSpeed(int)
+comment8.params=
+comment8.target=void\ checkStartGame()
+numComments=9
